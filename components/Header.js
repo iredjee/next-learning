@@ -15,6 +15,9 @@ const Header = () => (
     <Link href="/contact">
       <a style={linkStyle}>Contact</a>
     </Link>
+    <Link href="/blog">
+      <a style={linkStyle}>Blog</a>
+    </Link>
   </div>
 );
 
